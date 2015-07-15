@@ -121,7 +121,7 @@ only screen and (                min-resolution: 2dppx)
     display:none;
 }
 .showComments #topSeparationLine{
-    display:block;
+    display:none;
 }
 
 #topSeparationLine.active{
