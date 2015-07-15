@@ -30,5 +30,5 @@ document.write("<script type='text/javascript' charset='utf-8' src='./resources/
 document.write("<script type='text/javascript' charset='utf-8' src='./resources/_jim/javascript/function-jim-rendercomponent.js'></script>");
 document.write("<script type='text/javascript' charset='utf-8' src='./resources/_jim/javascript/component-external-customSelect.js'></script>");
 document.write("<script type='text/javascript' charset='utf-8' src='./resources/_jim/javascript/component-external-highlight-menu.js'></script>");
-document.write("<script type='text/javascript' charset='utf-8' src='./resources/lookup-1436948999410.js'></script>");
-document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1436948999410.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/lookup-1436952508136.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1436952508136.js'></script>");
