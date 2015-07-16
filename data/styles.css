@@ -266,3 +266,10 @@
   text-align:center;
   line-height:normal;
 }
+.fontawesome {
+}
+.materialicons {
+  font-family:'Material Icons Regular', 'Material Icons';
+  font-size:48px;
+  color:#000000;
+}
